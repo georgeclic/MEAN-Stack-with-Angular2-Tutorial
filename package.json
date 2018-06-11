@@ -1,0 +1,28 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN Satck con angular 2\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DA\u001b[D\u001b[D\u001b[3~\u001b[3~\u001b[\u001b[3~\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[CAngular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeclic/MEAN-Stack-with-Angular2-Tutorial.git"
+  },
+  "keywords": [
+    "MEAN Stack",
+    "Angular",
+    "Application"
+  ],
+  "author": "Jjaimes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/georgeclic/MEAN-Stack-with-Angular2-Tutorial/issues"
+  },
+  "homepage": "https://github.com/georgeclic/MEAN-Stack-with-Angular2-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.4"
+  }
+}
